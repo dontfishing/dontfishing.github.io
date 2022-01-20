@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dontfishing.github.io/2022/01/20/%E9%AB%98%E8%80%83%E5%9B%9E%E5%BF%86/</loc>
+    
+    <lastmod>2022-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dontfishing.github.io/categories/index.html</loc>
     
-    <lastmod>2022-01-19</lastmod>
+    <lastmod>2022-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dontfishing.github.io/2021/05/25/%E4%BA%92%E8%81%94%E7%BD%91+%E8%AE%AD%E7%BB%83%E8%90%A5/</loc>
+    
+    <lastmod>2022-01-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20,5 +38,19 @@
 
   
 
+  
+  <url>
+    <loc>https://dontfishing.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://dontfishing.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
