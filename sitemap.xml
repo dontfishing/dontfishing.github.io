@@ -4,7 +4,7 @@
   <url>
     <loc>https://dontfishing.github.io/2022/02/17/%E7%AE%97%E6%B3%95%E7%BB%83%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     
-    <lastmod>2022-02-17</lastmod>
+    <lastmod>2022-02-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://dontfishing.github.io/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -50,14 +50,14 @@
   
   <url>
     <loc>https://dontfishing.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://dontfishing.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-02-18</lastmod>
+    <lastmod>2022-02-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
